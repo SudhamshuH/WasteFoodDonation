@@ -21,7 +21,6 @@ A full-stack web application that bridges the gap between food donors and receiv
   - [Frontend (DonateFood)](#frontend-donatefood)
 - [API Documentation](#-api-documentation)
 - [Database Schema](#-database-schema)
-- [Contributing](#-contributing)
 
 ---
 
